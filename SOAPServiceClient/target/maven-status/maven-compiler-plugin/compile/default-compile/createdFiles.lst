@@ -1,0 +1,9 @@
+com\nijat\ws\ObjectFactory.class
+com\nijat\ws\GetAllUserResponse.class
+com\nijat\ws\User.class
+com\nijat\ws\GetAllUser.class
+com\nijat\ws\EducationService.class
+com\nijat\ws\EducationService_Service.class
+com\nijat\ws\GetUser.class
+com\nijat\ws\GetUserResponse.class
+com\nijat\ws\package-info.class
